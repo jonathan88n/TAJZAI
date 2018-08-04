@@ -1,0 +1,14 @@
+.container {
+	width: 100%;
+	height: 100%;
+}
+body {
+    background-color: red;
+}
+.top-banner img {
+	height: 400px;
+}
+.our-brands img {
+	height: 150px;
+	width: 150px;
+}
